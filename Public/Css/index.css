@@ -1,0 +1,76 @@
+@charset"utf-8";
+#list{
+	width: 720px;
+	height: 680px;
+	border: 1px solid red;
+	float: right;
+	margin: 10px 0 10px 5px;
+	border-radius: 10px;
+	position: relative;
+}
+#list .list_list{
+	width: 720px;
+	height: 30px;
+	background-color: #666;
+	border-radius: 10px;
+}
+#user{
+	width: 532px;
+	height: 335px;
+	border: 1px solid red;
+	float: left;
+	margin: 10px 0 7px 0;
+	border-radius: 10px;
+	position: relative;
+}
+#user .user_list{
+	width: 532px;
+	height: 30px;
+	background-color: #666;
+	border-radius: 10px;
+}
+#user  ul{
+	width: 400px;
+	height:300px;
+	padding: 0; 
+}
+#user  ul li{
+	color: red;
+	width: 300px;
+	height:28px; 
+	margin: 2px;
+	background-color: silver;
+}
+#user  ul img{
+	float: right;
+	cursor: pointer;
+}
+#bgr {
+	float: right;
+}
+#pics{
+	width: 532px;
+	height: 335px;
+	border: 1px solid red;
+	float: left;
+	margin: 0 0 10px 0;
+	border-radius: 10px;
+	position: relative;
+}
+#pics .pics_list{
+	width: 532px;
+	height: 30px;
+	background-color: #666;
+	border-radius: 10px;
+}
+#pics .pics_list h2{
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+	font-size: 25px;
+	height: 30px;
+	line-height: 30px;
+	color: orange;
+	position: absolute;
+	left: 10px;
+}

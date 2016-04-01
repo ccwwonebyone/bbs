@@ -1,0 +1,5 @@
+[ 2016-02-27T14:09:00+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+

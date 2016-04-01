@@ -1,0 +1,33 @@
+<extend name="Index:basic" />
+<block name="title"><title>bbs注册</title></block>
+<block name="link"><link rel="stylesheet" href="__PUBLIC__/Css/reg.css"></block>
+<block name="src"><script src="__PUBLIC__/Js/reg.js" type="text/javascript" charset="utf-8"></script></block>
+<block name="main">
+<div id='reg'>
+	<h2>会员注册</h2>
+	<form  method="post" name="reg" action="__MODULE__/Register/sql" >
+	<input type="hidden" name="uniqid" value="{$_SESSION['uniqid']}">
+	<h3>请填写已下内容</h3>
+	<ul>
+	<li><p>用户名：</p><input type="text" name="username" class="text"/><span class='state1'>*</span></li>
+	<li><p>密码：</p><input type="password" name="pass" class="text"/><span class='state1'>*</span></li>
+	<li><p>确认密码：</p><input type="password" name="repass"  class="text"/><span class='state1'>*</span></li>
+	<li><p>电子邮箱：</p><input type="text" name="email" class="text"/><span class='state1'>*</span></li>
+	<li><p>性别：</p><input type="radio" name="sex" value="男" checked="checked" class="sex" />男
+					 <input type="radio" name="sex" value="女" class="sex" />女
+	</li>
+	<img src="__PUBLIC__/Images/face/m3.jpg" alt="头像选择" id="img">
+	<li><input type="hidden" name="face" value="__PUBLIC__/Images/face/m3.jpg"></li>
+	<li><p>验证码：</p><input type="text" name="check" class="check"/>
+		<img src="__MODULE__/Base/code" id="code" /><span class="state1"></span></li>
+	<li><input type="button" name="sub" value="注册" class="sub"></li>
+	<div id="show">
+	<?php 
+	$dir="/thinkphp/index.php/Home/Register/register";
+	$mood='tg_picture';
+	_page(12,$dir,$mood);
+	 ?>	
+	</div>
+	</form>
+</div>
+</block>

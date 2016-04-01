@@ -1,0 +1,18 @@
+@charset"utf-8";
+
+#myfri li{
+	width: 500px;
+	border:1px solid black;
+}
+
+#myfri li span{
+	cursor: pointer;
+}
+
+#myfri li a{
+	display: none;
+}
+
+#myfri .hide {
+	display: none;
+}

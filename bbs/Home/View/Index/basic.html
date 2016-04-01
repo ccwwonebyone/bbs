@@ -1,0 +1,18 @@
+<?php $start_time=round(_runtime(),4)?>
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<block name="title"><title>首页</title></block>
+	<link rel="stylesheet" href="__PUBLIC__/Css/basic.css">
+	<script src="__PUBLIC__/Js/jquery.js" type="text/javascript" charset="utf-8"></script>
+	<block name="link">引入css</block>
+	<block name="src">引入js</block>
+</head>
+<body>
+<include file="index/header" />
+<block name="main"></block>
+<include file="index/footer" />	
+</body>
+</html>

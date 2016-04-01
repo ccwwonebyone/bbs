@@ -1,0 +1,19 @@
+<extend name="Index:basic" />
+<block name="title"><title>个人中心</title></block>
+<block name="link"><link rel="stylesheet" href="__PUBLIC__/Css/infor.css"></block>
+<block name="src"><script src="__PUBLIC__/Js/infor.js" type="text/javascript" charset="utf-8"></script></block>
+<block name='main'>
+<div id="infor">
+	<div id="infor_list">
+		<?php
+			$db='pro';
+			$where='pro_id=6 AND pro_there=2';
+			$select='pro_name,pro_url';
+			_showli($db,$where,$select); 
+		?>		
+	</div>
+	<div id="newpage">
+	<iframe src="__MODULE__/Infor/myinfor" scrolling="no" frameborder="0" height="100%"  width="100%" allowtransparency="true"  border="0" style="width:100%;padding: 0;"></iframe>
+	</div>
+</div>
+</block>

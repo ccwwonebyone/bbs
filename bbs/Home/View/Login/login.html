@@ -1,0 +1,19 @@
+<extend name="Index:basic" />
+<block name="title"><title>bbs登录</title></block>
+<block name="link"><link rel="stylesheet" href="__PUBLIC__/Css/login.css"></block>
+<block name="src"><script src="__PUBLIC__/Js/login.js" type="text/javascript" charset="utf-8"></script></block>
+<block name='main'>
+	<div id='login'>
+		<h2>会员登录</h2>
+			<span id='info'></span>
+			<form action="__MODULE__/Index/index" method="post" name='login'/>
+			<ul>
+				<li><p>用户名：</p><input type="text" name="username" /></li>
+				<li><p>密码：</p><input type="password" name="password" /></li>
+				<li><p>验证码：</p><input type="text" name="check" class="check"/>
+					<img src="__MODULE__/Base/code" id="code" /><span class="state1"></span>
+				<li><input type="button" class="but"value="登录"></li>
+			</ul>
+			</form>
+	</div>
+</block>

@@ -1,0 +1,80 @@
+@charset"utf-8";
+#login
+{
+	width: auto;
+	height: 300px;
+	border: 2px solid orange;
+	margin: 10px 0;
+	border-radius: 10px;
+	position: relative;
+}
+#login h2
+{	
+	position: absolute;
+	left: 0px;
+	width: 1259px;
+	background-color: #666;
+	border-radius: 10px;
+	text-align: center;
+}
+#info
+{
+	width: 200px;
+	height: 30px;
+	color: red;
+	position: absolute;
+	top: 40px;
+	left: 550px;
+	text-align: center;
+}
+#login ul{
+	position: absolute;
+	top: 50px;
+	left: 430px;
+}
+#login li{
+	height: 35px;
+	line-height: 35px;
+	margin-top: 20px;
+}
+#login p{
+	width: 100px;
+	font-size: 16px;
+	height: 20px;
+	line-height: 20px;
+	margin: 5px;
+	padding: 0;
+	display: inline-block;
+}
+#login input{
+	width: 150px;
+	height: 20px;
+	margin: 0 auto;
+	border-radius: 5px;
+	border: 1px dashed #333;
+}
+#login .check{
+	width: 70px;
+}
+#login img{
+	position:relative;
+	top: 6px;
+	left: 2px;
+}
+#login .but{
+	width: 100px;
+	height: 20px;
+	border: 1px solid #333;
+	background-color: #f71;
+	margin: 10px 0;
+	position: absolute;
+	left: 165px;
+	cursor: pointer;
+	line-height: 20px;
+	border-radius: 5px;
+	text-align: center;
+}
+#login li span{
+	font-size: 12px;
+	color: red;
+}

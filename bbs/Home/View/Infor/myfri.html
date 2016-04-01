@@ -1,0 +1,16 @@
+<extend name="base" />
+<block name="title"><title>个人信息</title></block>
+<block name="link">
+	<link rel="stylesheet" href="__PUBLIC__/Css/infor/myinfor.css">
+	<link rel="stylesheet" href="__PUBLIC__/Css/infor/myfri.css">
+</block>
+<block name="src">
+	<script src="__PUBLIC__/Js/infor/myfri.js" type="text/javascript" charset="utf-8" async defer></script>
+</block>
+<block name="stitle"><h3>我的好友</h3></block>
+<block name="main">
+	<div id="myfri">
+	<h4>好友管理</h4>
+	<?php _showfri(); ?>
+	</div>
+</block>

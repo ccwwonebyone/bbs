@@ -1,0 +1,557 @@
+[ 2016-02-26T11:00:22+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-02-26T11:00:23+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-02-26T11:12:22+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-02-26T11:12:22+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+
+[ 2016-02-26T11:16:40+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+
+[ 2016-02-26T11:16:41+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-02-26T11:17:07+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-02-26T11:17:08+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001373s ]
+
+[ 2016-02-26T11:17:33+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-02-26T11:17:33+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-02-26T11:19:42+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2016-02-26T11:19:42+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+
+[ 2016-02-26T11:20:22+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-02-26T11:20:22+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-02-26T11:35:05+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+
+[ 2016-02-26T11:35:05+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-02-26T11:43:13+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+
+[ 2016-02-26T11:43:13+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-02-26T11:43:28+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-02-26T11:43:29+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+
+[ 2016-02-26T11:49:49+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-02-26T11:49:49+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2016-02-26T11:50:15+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-02-26T11:50:15+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2016-02-26T12:23:21+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-02-26T12:23:21+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+
+[ 2016-02-26T12:23:45+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2016-02-26T12:23:45+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2016-02-26T12:24:20+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-02-26T12:24:20+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-02-26T12:24:30+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-02-26T12:24:30+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-02-26T12:24:43+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-02-26T12:24:43+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-02-26T12:24:54+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+
+[ 2016-02-26T12:24:54+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-02-26T12:25:12+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-02-26T12:25:12+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-02-26T12:25:28+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2016-02-26T12:25:28+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-02-26T12:26:26+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-02-26T12:26:26+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-02-26T12:27:00+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-02-26T12:27:00+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-02-26T12:27:35+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-02-26T12:27:35+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-02-26T12:27:45+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-02-26T12:27:45+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+
+[ 2016-02-26T12:28:02+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-02-26T12:28:02+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2016-02-26T12:28:45+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-02-26T12:28:46+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+
+[ 2016-02-26T12:29:36+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2016-02-26T12:29:36+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2016-02-26T12:30:17+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001312s ]
+
+[ 2016-02-26T12:30:17+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-02-26T12:30:27+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2016-02-26T12:30:27+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2016-02-26T12:30:54+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+
+[ 2016-02-26T12:30:54+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000972s ]
+
+[ 2016-02-26T12:31:02+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2016-02-26T12:31:02+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+
+[ 2016-02-26T12:32:38+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2016-02-26T12:32:39+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-02-26T12:32:51+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2016-02-26T12:32:52+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-02-26T12:33:19+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-02-26T12:33:19+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2016-02-26T12:33:54+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-02-26T12:33:54+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2016-02-26T12:34:38+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-02-26T12:34:38+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+
+[ 2016-02-26T13:09:19+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2016-02-26T13:09:19+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-02-26T13:10:54+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+
+[ 2016-02-26T13:10:54+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-02-26T13:11:39+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-02-26T13:11:39+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-02-26T13:11:43+08:00 ] ::1 /thinkphp/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-02-26T13:11:46+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-02-26T13:11:46+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+
+[ 2016-02-26T13:13:32+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-02-26T13:13:32+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+
+[ 2016-02-26T13:16:42+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-02-26T13:17:13+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2016-02-26T13:17:39+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+ERR: 1054:Unknown column '樱木花道' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `tg_guest` WHERE ( tg_username=樱木花道 ) LIMIT 1  
+
+[ 2016-02-26T13:18:09+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-02-26T13:18:37+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-02-26T13:18:51+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-02-26T13:24:58+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-02-26T13:26:22+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-02-26T13:27:10+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-02-26T13:28:43+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-02-26T13:28:56+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-02-26T13:29:19+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2016-02-26T13:29:53+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-02-26T13:38:16+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2016-02-26T13:38:57+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2016-02-26T13:38:58+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+
+[ 2016-02-26T13:39:25+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2016-02-26T13:44:37+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+
+[ 2016-02-26T14:16:05+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+
+[ 2016-02-26T14:16:52+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-02-26T14:17:49+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-02-26T14:27:13+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2016-02-26T14:32:52+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2016-02-26T14:32:53+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-02-26T14:33:01+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-02-26T15:11:16+08:00 ] ::1 /thinkphp/index.php/Home/Register/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2016-02-26T15:11:16+08:00 ] ::1 /thinkphp/index.php/Home/Register/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-02-26T15:11:24+08:00 ] ::1 /thinkphp/index.php/Home/User/checkname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+

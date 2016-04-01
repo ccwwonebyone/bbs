@@ -1,0 +1,14 @@
+<extend name="base" />
+<block name="title"><title>个人信息</title></block>
+<block name="link"><link rel="stylesheet" href="__PUBLIC__/Css/infor/myinfor.css"></block>
+<block name="src"></block>
+<block name="stitle"><h3>个人信息</h3></block>
+<block name="main">
+<div id="myinfor">
+	<ul>
+		<li><span>用户名：{$res['tg_username']}</span></li>
+		<img src="{$res[tg_face]}"><a href=""></a>
+		<li><span>邮箱：{$res['tg_email']}</span></li>
+	</ul>
+</div>
+</block>
